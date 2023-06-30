@@ -1,4 +1,4 @@
-package generator.domain;
+package generator.domain.Captcha;
 
 import com.wf.captcha.*;
 import com.wf.captcha.base.Captcha;

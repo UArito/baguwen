@@ -1,4 +1,4 @@
-package generator.domain;
+package generator.domain.Captcha;
 
 import java.util.Random;
 
